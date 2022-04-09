@@ -9,7 +9,7 @@
     "react-dom": "^16.10.1",
     "react-icons": "^3.7.0",
     "react-scripts": "3.1.2",
-    "moment": "^2.24.0"
+    "moment": "^2.29.2"
   },
   "scripts": {
     "start": "react-scripts start",
